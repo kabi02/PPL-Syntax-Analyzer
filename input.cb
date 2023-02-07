@@ -1,0 +1,9 @@
+int x;
+int x = 1;
+int x = 3 , y = 4;
+int x = y;
+
+char a = 'a';
+string b = "ba";
+boolean c = true;
+decimal d = 1.0;

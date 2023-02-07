@@ -1,0 +1,53 @@
+int x;
+int x = 1;
+int x = 3 , y = 4;
+int x = y;
+
+char a = 'a';
+string b = "ba";
+boolean c = true;
+decimal d = 1.0;
+
+x = y;
+y = 1 + 2;
+x = (1 + y) - 5 + (3 * z);
+
+if(x==y){
+	print("Hi");
+}
+
+if(x!=z){
+	if (z>y){
+		print("Me");
+	}
+}	
+else{
+	print("No");
+}
+
+if(x==z){
+	print("He");
+}	
+else if(x>=y){
+	print("Yo");
+{
+else{
+	print("It");
+}
+
+while(x!=z){
+	while(x<y) {
+		print("*");
+	}
+1++;
+}
+
+int age;
+
+read(age);
+
+print("Hi!");
+print(1+2);
+print(age);
+
+x++;
